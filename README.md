@@ -20,8 +20,9 @@ Original case files from xyxjj, with the addition of DXF files for a "full hand"
 
 **TODO:**
 - Take out notch in middle layers to allow for Proton C/Pro Micro
-- Add holes for more locations for aluminum feet in bottom layer
-- Add second from bottom layer with holes to accommodate aluminum feet
+- ~~Add holes for more locations for aluminum feet in bottom layer~~
+- ~~Add second from bottom layer with holes to accommodate aluminum feet~~
+- Take out notch in middle layers to allow for TRRS jacks
 
 **Original contents:**  
 > Files available in dxf and dwg, dimensions in mm
